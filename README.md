@@ -1,4 +1,4 @@
-## Olá,devs!! Eu sou Atilon pereira :)<br>
+## Olá,devs!! Eu sou Atilon pereira 👩‍💻<br>
   [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://l.instagram.com/?u=https%3A%2F%2Fpereirasantan.github.io%2FMY-contact%2Fcontact%2Fhtml%2Fcontact.html%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaZOcG0OI-Lda_ZTn0jc3y1pZeIL5Vr4qSxqxhXdK3s74ySGHnS9RJBgiZk_aem_AReAonOxylTLk2T18d0oWw32-hrWlaObk8biWCpjsiMDplaVdHDd8P_SHI_4ENatyeKcgOVeRtJiuP5YIcjqeNkk&e=AT3cFQJ4ybpX2eEcbJxUi4b4VxLjGmEyGbR5KXT61XYINIyxwnFtG_EeD8dqCKm2RymPb6BT7qeGsloCHEa6oBK-IGOE7AXtayQ4dtIIrIrZQmJ118lVL-4)
   [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atilon.dev/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
@@ -8,7 +8,7 @@
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=pereirasantan&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-<h2>Tecnologia do meu dia</h2>
+<h2>Tecnologias do meu dia</h2>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
