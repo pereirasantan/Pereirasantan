@@ -5,7 +5,7 @@
   [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCHVhFmY4eAR-mk-mhn-hFLg)
   [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/profile.php?id=100041530481027&name=xhp_nt__fb__action__open_user)
 <div>
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=pereirasantan&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=pereirasantan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <h2>Tecnologias do meu dia</h2>
